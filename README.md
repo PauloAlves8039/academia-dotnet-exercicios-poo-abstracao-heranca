@@ -63,10 +63,28 @@ Regras:
 - a) Crie uma classe "Produto" com propriedades como "Nome," "Preço" e "Estoque."
 - b) Implemente construtores sobrecarregados que permitam criar instâncias de produtos de diferentes maneiras, como especificando apenas o nome ou especificando todas as propriedades.
 
+## :memo: Respostas dos Exercícios
+
+- [Exercicio 1](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio01)
+- [Exercicio 2](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio02)
+- [Exercicio 3](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio03)
+- [Exercicio 4](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio04)
+- [Exercicio 5](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio05)
+- [Exercicio 6](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio06)
+- [Exercicio 7](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio07)
+- [Exercicio 8](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio08)
+- [Exercicio 9](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio09)
+- [Exercicio 10](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio10)
+- [Exercicio 11](https://github.com/PauloAlves8039/academia-dotnet-exercicios-poo-abstracao-heranca/tree/master/Exercicios/Academia.Dotnet.POO.AH.Exercicio11)
+
+## :white_check_mark: Decisões Técnicas
+
+Procurei responder os exercícios mantendo as declarações de variáveis, construtores e sobrescrita de métodos de acordo com o que foram apresentados durantes as aula.   
+  
 ## ✔️ Recursos Utilizados
 
 - ``.NET 6.0``
-- ``Windows Forms Applications``
+- ``Console Application``
 - ``C#``
 
 ## :floppy_disk: Clonar Repositório
