@@ -1,4 +1,4 @@
-<h1 align="center">:memo: Academia DotNet - Exercícios POO Abstração e Herança</h1>
+<h1 align="center">:memo: Academia .NET - Exercícios POO Abstração e Herança</h1>
 
 <p align="center">
   <a href="https://learn.microsoft.com/pt-br/dotnet/"><img alt="DotNet 6" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" /></a>
